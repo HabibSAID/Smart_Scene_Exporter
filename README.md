@@ -2,6 +2,8 @@ Smart Scene Exporter is a custom Unity editor tool that helps export scenes and 
 
 The tool scans scene hierarchies and dependencies to export only what’s needed — keeping projects lightweight, structured, and free from broken references.
 
+it's main use case is to easily move scenes between projects.
+ 
 ✨ Features
 
 📦 Scene export system
@@ -18,16 +20,4 @@ The tool scans scene hierarchies and dependencies to export only what’s needed
 
 🧱 Scalable C# editor architecture
 
-🎯 Use Cases
-
-🔁 Move scenes between projects
-
-💾 Clean project backups
-
-👥 Team collaboration
-
-🧱 Modular level systems
-
-📁 Asset packaging
-
-🚀 Pipeline optimization
+ ![Alt text](imaghttps://github.com/HabibSAID/Smart_Scene_Exporter/blob/b1b598b983b5771bef190613bd3c9fec4fac48b3/SmartSceneExporterWindow.pnge_url)
