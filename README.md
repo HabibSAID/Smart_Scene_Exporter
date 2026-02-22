@@ -20,4 +20,4 @@ it's main use case is to easily move scenes between projects.
 
 🧱 Scalable C# editor architecture
 
- ![Alt text](imaghttps://github.com/HabibSAID/Smart_Scene_Exporter/blob/b1b598b983b5771bef190613bd3c9fec4fac48b3/SmartSceneExporterWindow.pnge_url)
+![Smart_Scene_Exporter](https://raw.githubusercontent.com/HabibSAID/Smart_Scene_Exporter/b1b598b983b5771bef190613bd3c9fec4fac48b3/SmartSceneExporterWindow.png)
